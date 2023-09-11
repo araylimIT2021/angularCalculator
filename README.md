@@ -1,4 +1,9 @@
+
 # AngCalculator
+
+![angular_calculator](https://github.com/araylimIT2021/angularCalculator/assets/128516749/4fe0b5f7-7770-4a07-8e1e-82c63c0f2bba)
+
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.0.5.
 
